@@ -1,0 +1,25 @@
+.main {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.start_game{
+    color: goldenrod;
+    background-color: greenyellow;
+}
+.start_game:hover{
+    background-color: goldenrod;
+    color: greenyellow;
+}
+.hide{
+    display: none;
+}
+.score_card{
+    justify-content: space-around;
+}
+.card {
+    padding: 25px 10px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 8px 1px #332e6418;
+}
